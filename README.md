@@ -1,10 +1,5 @@
-[Astrid](http://www.weloveastrid.com/) - Task Management Done Right
-================================  
-Astrid strives to be a simple and effective organization tool for Google Android phones. It comes with features like reminders, tagging, widgets, and integration with online synchronization services.
+ Task Management 
 
-Interested in using Astrid? Search "astrid" in Android Market. Look for the smiling pink squid!
-
-If you would like to help out with the Astrid project, you're in the right place.
 
 Getting Started With Development
 ---------------
